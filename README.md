@@ -1,10 +1,10 @@
-# DelayTime
+# Delaying
 Simple NodeJs module for delaying execution using promise or async-await
 
 
 ## Installation
 
-> npm i delaytime
+> npm i delaying
 
 ## Example
 

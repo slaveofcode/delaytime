@@ -1,6 +1,6 @@
 {
   "name": "delaying",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Delaying Time Module",
   "main": "index.js",
   "scripts": {
