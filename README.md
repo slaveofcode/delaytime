@@ -8,11 +8,11 @@ Simple NodeJs module for delaying execution using promise or async-await
 
 ## Example
 
-    const delay = require('delaytime');
+    const delaying = require('delaying');
     
     const yourFunction = async () => {
       console.log('First time message');
-      await delay('3000'); // 3000 milliseconds = 3 secs
+      await delaying('3000'); // 3000 milliseconds = 3 secs
       console.log('Second time message');
     }
 
