@@ -1,0 +1,28 @@
+{
+  "name": "delaytime",
+  "version": "1.0.0",
+  "description": "Delaying Time Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/slaveofcode/delaytime.git"
+  },
+  "keywords": [
+    "delaytime",
+    "wait",
+    "delay",
+    "timeout"
+  ],
+  "author": "Aditya Kresna Permana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slaveofcode/delaytime/issues"
+  },
+  "homepage": "https://github.com/slaveofcode/delaytime#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
